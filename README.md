@@ -14,17 +14,17 @@
 - **Git & GitHub**
 - **Lógica de programação**
 - **Programação Orientada a Objetos (POO)**
-- **Algoritmos e estruturas de programação**
+- **Algoritmos**
 
 ---
 
 ## 📂 Projetos em destaque
 
-### 📚 Entregáveis - Ambientes
-Repositório com exercícios e projetos desenvolvidos durante a formação em ADS, incluindo implementações de algoritmos em Java e JavaScript e aplicações web.
+### 📚 [Entregáveis - Ambientes](https://github.com/matheuslucas07/entregaveis-ambientes)
+Repositório com exercícios e projetos desenvolvidos durante minha formação em ADS, incluindo algoritmos em Java e JavaScript e aplicações web.
 
-### ☁️ Entregável - Nuvem
-Projeto acadêmico voltado ao desenvolvimento web, com HTML, CSS e JavaScript.
+### ☁️ [Entregável - Nuvem](https://github.com/matheuslucas07/entregavel-nuvem)
+Projeto acadêmico voltado ao desenvolvimento web, utilizando HTML, CSS e JavaScript.
 
 ---
 
@@ -46,7 +46,8 @@ Construir uma base sólida em desenvolvimento de software, evoluir continuamente
 
 ## 📫 Contato
 
-- GitHub: [@matheuslucas07](https://github.com/matheuslucas07)
+- 📧 **E-mail:** [vsmatheus.pro@gmail.com](mailto:vsmatheus.pro@gmail.com)
+- 💻 **GitHub:** [@matheuslucas07](https://github.com/matheuslucas07)
 
 ---
 
